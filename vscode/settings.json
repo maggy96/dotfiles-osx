@@ -1,0 +1,38 @@
+{
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "editor.suggestSelection": "first",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.colorTheme": "Nord",
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "files.insertFinalNewline": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.tabSize": 2,
+    "window.zoomLevel": 0,
+    "vim.easymotion": true,
+    "[json]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "terminal.integrated.fontSize": 14,
+    "debug.console.fontSize": 14,
+    "vsicons.dontShowNewVersionMessage": true,
+    "vim.easymotionMarkerFontWeight": "500",
+    "vim.easymotionMarkerForegroundColorOneChar": "#BF616A",
+    "vim.easymotionMarkerForegroundColorTwoChar": "#BF616A",
+    "vim.easymotionMarkerBackgroundColor": "#2d3441",
+    "vim.easymotionMarkerFontFamily": "Fira Code",
+    "vim.easymotionMarkerFontSize": "16",
+    "vim.easymotionMarkerHeight": 24,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "vim.autoSwitchInputMethod.enable": true,
+    "vim.autoSwitchInputMethod.obtainIMCmd": "/usr/local/bin/im-select",
+    "vim.autoSwitchInputMethod.switchIMCmd": "/usr/local/bin/im-select {im}",
+    "vim.autoSwitchInputMethod.defaultIM": "com.apple.keylayout.US"
+}
