@@ -10,8 +10,8 @@ My dotfiles and how to setup the dev stuff on osx.
 * [vscode](https://code.visualstudio.com/)
 ## dev & cli
 * [nodejs](https://nodejs.org/en/)
-* [oh my fish](https://github.com/oh-my-fish/oh-my-fish) and `coffeeandcode` theme
+* [oh my zsh](https://github.com/ohmyzsh/ohmyzsh) and `agnoster` theme
 ## theme
-* [dank mono](https://dank.sh/)
+* [fira code](https://github.com/tonsky/FiraCode)
 * [nord colorscheme](https://www.nordtheme.com/)
 * [unsplash](https://unsplash.com/)
